@@ -1,0 +1,28 @@
+                                   Labarinth
+                                  By D. Jones
+
+East, Examine Pond, Look, Get Fairy,  Dig  Ground,  Get Key, West, Unlock Gate,
+Open Gate, North, North, West, Examine  Moss,  Talk To Moss, Look, Get Gloworm,
+East, East, East, Walk Into Wall, West,  Open  Door, West, Open Door, Knock Big
+Knocker.
+
+East, South, East, Get Wad, West,  North,  Wear  Wad, North, East, North, West,
+Jump Onto Rocks, West, West, West, Examine Creature, Get Head, Remove Wad, Drop
+Wad, North, Climb Rope.
+
+East, East, North, North, Examine  Gate,  Open  Gate, North, Drop Basil, North,
+East, Up, Get Phial, Down, West, South,  West, Drink Potion, Jump Chasm, North,
+Enter Castle, Sit On Throne, Say Egg.
+
+                             "CONGRATULATIONS!!!"
+
+                               "END OF GAME!!!"
+
+
+
+
+
+
+es
+
+East, Examine Pond, Look, Get Fai

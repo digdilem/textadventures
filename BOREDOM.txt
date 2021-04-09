@@ -1,0 +1,44 @@
+                                  Boredom
+                            By DRAGONSOFT (c).
+
+                Examine  Wardrobe, Open  Wardrobe, Examine  Wardrobe, Look, Get
+Clothes, Wear Clothes, East, East, Examine Fridge, Look, Get Cheese.
+
+                Examine Breadbin, Look, Get Key, West, Open Door, Down,  South,
+East,  Talk To  Barmaid, Shag  Barmaid, North,  North, North, Climb Streetlamp,
+Get Bulb, West, South.
+
+                Wait, Shag Barmaid, Leave Car, North, East, East, Up, Fit Bulb,
+Look, Get  Manual, Examine  Manual,  Down, South,  Examine Bookcase,  Get Whip,
+North, West, West, South, South, East.
+
+                Join  Army, Give  Whip, Join  Army, North,  East,  North, Give
+Manual (to Sergent Major who gives you a rope), South, East,  Dial Park, West,
+North, East (maze) East, East, South.
+
+                Tie Rope, Climb  Rope, North (maze),  West, North, West, (read
+sign), North, West, Give Cheese (to Dwarf), West, West.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+n

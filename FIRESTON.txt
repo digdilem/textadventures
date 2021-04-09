@@ -1,0 +1,44 @@
+                              Firestone
+                           By Dragonsoft(c).
+
+                You start off in your cosy little home, Get Coin, South, South,
+South, Get  Shoes, Examine  Shoes, Wear  Shoes, West, West,  South (you enter a
+shop), Buy Candle, North, East, East, North, North, North (you back home again)
+Light Candle (in the fireplace), South, West, West, North, Get Stone.
+
+                South, South, West, North, West, Examine  Boulder, Stroke Boul-
+der (something happens), North, Talk  to Wizard, Get Sword, South, East, South,
+West, West, Down, North, Cross  Plank, North,  West, West, South,  Drop Candle,
+Hold Breath, Dive, South, West, North, North, Examine Goblin, Give Stone, North
+North, North, West, North, Press Button (when you go south, you end up in a new
+location).
+
+                South,  West, Examine  Cliff, Look,  Down, West, Kill King, Get
+King, East, Up, East,  North, Press  Button (back  to the dirty  house), South,
+East, South,  South, South, South,  South, East, North, Hold  Breath, Dive, Get
+Candle, North, East,  East, South, Cross  Plank, South, Up, East,  East, North,
+West, North, Give  King (to  Wizard), East, Get  Firestone,  West, South, East,
+South, East, South, South, East, East,  North, East,  (you see a lone  figure),
+Talk to Figure, Give Firestone.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  You start off in you

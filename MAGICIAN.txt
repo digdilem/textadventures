@@ -1,0 +1,27 @@
+                             Magician's Apprentice
+                                By Simon Avery
+
+Get Staff, Get Backpack, Examine Backpack,  Get  Map, South, West, North, West,
+Hit Demon, Drop Staff, East, South,  East,  East, South, East, Read Map, South,
+In, Up, Examine Bed, Get Hat, Say Home.
+
+South, West, North, West, West,  North,  North,  Give  Hat, Get Brownie, South,
+South, East, East, South, East,  East,  South,  East,  Read Map, North, In, Up,
+North, Say Doom.
+
+South, Down,  South,  East,  East,  North,  Give  Brownie,  North,  North, Kill
+Monster, North, West, West,  Talk  Ebeneezum,  West,  West,  North, West, West,
+Sneeze, West, West, North, West,  South,  West,  South, West, West, North, Talk
+Tree, Talk Tree, Climb Tree, Get Book, Say Home.
+
+                             ***** Game Over *****
+
+
+
+
+
+
+
+ By Simon Avery
+
+Get Staff, Get Backpack, E

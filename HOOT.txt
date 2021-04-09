@@ -1,0 +1,47 @@
+                               House Out Of Town
+                                  By D.Jones
+
+Examine Desk, Open Drawer, Examine Drawer,  Look, Take Case, Take Keys, Examine
+Rack, Examine Case, Take Coat, West,  Lock  Door,  North, Down, North (You will
+now have to wander North and  South  until  the case clicks open), Examine Case
+(Keep going South until you reach the lobby of the station).
+
+Buy Ticket, East, Show Ticket,  East,  Show  Ticket, East, East, Take Detector,
+West, Wait, Climb Onto Train, Sit, Wait,  Stand, North, East, East, North, Take
+Knife, South, Use Detector, Northeast,  Take  Matches, Use Detector, Southeast,
+Use Detector, Southeast.
+
+Use Detector, Northwest, North, East, Burn  Bush,  East, Take Wood, Climb Tree,
+Examine Cleft, Take Glass, Down,  West,  West,  Unlock  Door, Open Door, North,
+East, Examine Table, Examine Fruit, Take  Lime,  North, Carve Key, South, West,
+West, Climb Onto Desk, Move Painting, Down, Take Blade, Cut Lime, Squeeze Lime,
+East, North, Examine Heads, Pull Tiger Head.
+
+West, West, Pour Juice, Examine  Chest,  Look,  Take Camera, East, East, North,
+West, Take Rope, East, Up, West,  Examine Rubbish, Look, Take Flashlight, East,
+North, East,  Open  Wardrobe,  Take  Batteries,  Insert  Batteries,  Switch  On
+Flashlight, Move Rail, Out, Up,  Up,  East,  Take  Cage,  East, Tie Rope, West,
+West, Down, Push Panels, East, Down, West, South, South.
+
+Use Camera, East, Unlock Safe, Look,  Take  Will, West, North, North, East, Up,
+West, Up, East, East, East, Down, West,  South, South, Use Camera, East, Unlock
+Safe, Look, Take Will, West,  North,  North,  East,  Up,  West, Up, East, East,
+Climb Down Rope, West, South, South, West, West, West, South, Sit, Wait, Stand,
+North, West, West, North, North, Up, South, Unlock Door, East.
+
+                    " C O N G R A T U L A T I O N S ! ! ! "
+
+                        " E N D   O F   G A M E ! ! ! "
+
+
+
+
+
+
+
+
+
+Of Town
+                                  By D.Jones
+
+Examine Desk, Open Drawer, Exa

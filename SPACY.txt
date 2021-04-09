@@ -1,0 +1,46 @@
+                                     Spacy
+                                By Dragonsoft (c).
+
+North, Get Space Suit, Wear Space Suit,  South,  Open Door, East, East (you are
+now inside the station) North,  East,  East,  East,  Examine Body, Look, Get ID
+Card, Examine Card.
+
+West, Get Note, Read Note, West,  West,  North,  North, East, East, Type Spa (a
+section of  the  south  wall  opens),  South,  East,  Get  Sunlighter,  Examine
+Sunlighter, West, North, West, West,  South,  South,  South, South, East, East,
+South, South, East, North, Get Food.
+
+South, West, North, North, West, West, North, North, East, North, Examine Oven,
+Cook Food, South, South,  East,  Turn  Tap,  Shower,  West, North, West, South,
+South, East, East, South, South, East,  South,  Talk to Robot, Look, Drop Note,
+Get Oil, Show ID Card, Enter, Pilot Shuttle, Leave Shuttle.
+
+North, East, Give (cooked) Food,  East,  Oil  Switch, South, West, South, West,
+Pull Switch, Get Key, East, North,  East,  East, Examine Dashboard, Insert Key,
+Pilot Ship.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   By Adventure PD (c),
+
+North, Get Space Suit, Wear Spa

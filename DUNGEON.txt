@@ -1,0 +1,47 @@
+                                    Dungeon
+                                 By The Orped.
+
+Get Torch, Pull Brick, Get Parchment,  Read  Parchment, Say Plague (you are now
+in a maze), North,  North,  West  (You  Are  Now   In   The  Library),  Examine
+Books, Pull Book, North, North (you  see  an  old man sitting in the armchair),
+Talk To Old Man, Examine  Armchair,  Look,  Get Bottle, South, West, Get Table,
+North, North, North, Drop Table, Climb Table.
+
+Up, North, Talk to Squirrel, Kill Squirrel, South,  East,  East,  Fill  Bottle,
+West, West, Down, Down, South, South, South, Examine Walls,  East,  North, Give
+Bottle (the old man falls down  dead)  East,  Get Fly Paper, West, South, West,
+North, North,  North, Climb Table, Up,  North,  Get  Flies, Say Plague (back at
+the maze),West, East, East, North,  North,  North,  Give  Flies (to spider, who
+then disapears), West, Get Cocoon.
+
+East, North, North, West (you see a young  orc chained to the wall), Get Knife,
+Free  Orc, Say Plague, North,  North,  West,  North, West, North, North, North,
+Climb  Table, Up, East,  East,  Sharpen  Knife,  Say  Plague, West, East, East,
+North, North, North, North, East  (you  see  a  fierce  dog), Cut Cocoon,  Give
+Bones, South, South, Get  Fur  Coat,   Wear  Coat,  North,  East,  East,  East,
+North, North, North, North, Enter Pub.
+
+                             ***** Game Over *****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+on
+                                 By The Orped.
+
+Get Torch, Pull Brick, Get Parchm

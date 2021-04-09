@@ -1,0 +1,27 @@
+                                   Adult II
+                              By Dragonsoft (c).
+
+West,  Down,   South,   Get    Tampon,    North,   North, Examine Urinal, Look,
+Get Dog  (end),  South,  West, Get  Coat,  Examine  Coat, Get Money, Wear Coat,
+East, Up, East, South, Up,  South,   West,  Make  Love To Lady, Examine Bed, I,
+East,  North,  Down,  North,  North,  Pay  (man  on door), North, North, North,
+East, Get Card, Examine Card, West,  South,  South,  East, Give Dog, (the tramp
+give you  an  empty   bottle  in  exchange),  West,  South,  South, West, Down,
+North.
+
+Turn On Tap,  Fill  Bottle,  South,  Up,  East, North, North, West, North, Show
+Card  (to  man),  Down, Talk To Barmaid,  Give Bottle, South, Talk To Stripper,
+Give Tampon (she gives you a frock),  Wear Frock, North, Up, East, East,  East,
+East, South, South, Talk To Couple,  Give  Condom, Look, Get Key,  Examine Key,
+North, North, North, Unlock Door, East.
+
+
+
+
+
+
+
+
+venture PD (c).
+
+West,  Down,   South,   Get   
