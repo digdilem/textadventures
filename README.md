@@ -2,7 +2,7 @@
 My text adventures from the 1980s and 1990s
 
 ### Text Adventures by Simon Avery
-I wrote a lot of text adventures during the 80’s and early 90’s for the Amstrad CPC and PC which were converted to the Spectrum and C64 by Tony Collins (Guild), Anthony Reynolds (Adventure Workshop) and Dorothy Millard. Many sold commercially and many were released as public domain. (Known today as Freeware)
+I wrote a lot of text adventures during the 80’s and early 90’s for the Amstrad CPC and PC which were converted to the Spectrum and C64 by Tony Collins (Guild), Anthony Reynolds (Adventure Workshop) and Dorothy Millard. Many sold commercially (some through Joan Pancott's Witch of Wessex label) and many were released as public domain. (Known today as Freeware)
 
 Good times, a good bunch of folks involved in the UK textie scene at that time.
 
